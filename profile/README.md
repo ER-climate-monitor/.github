@@ -5,9 +5,9 @@ possibility to subscribe to an alerting system for anomalies in weather
 conditions.
 
 Members:
-[Matteo Iorio](https://github.com/MatteoIorio11)
-[Stefano Furi](https://github.com/S-furi)
-[Fabio Vincenzi](https://github.com/fabiovincenzi)
+- [Matteo Iorio](https://github.com/MatteoIorio11)
+- [Stefano Furi](https://github.com/S-furi)
+- [Fabio Vincenzi](https://github.com/fabiovincenzi)
 
 Documentation is available [here](https://matteoiorio11.github.io/er-climate-monitor/)
 
