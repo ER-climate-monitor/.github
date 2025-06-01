@@ -12,4 +12,8 @@ Members:
 Documentation is available [here](https://matteoiorio11.github.io/er-climate-monitor/)
 
 ## Project Composition
-Qui buttare con link e brevi descrizioni tutte le repo ciao.
+
+- [er-climate-monitor](https://github.com/ER-climate-monitor/er-climate-monitor): backend microservices monorepo.
+- [er-climate-monitor-dsl](https://github.com/ER-climate-monitor/er-climate-monitor-dsl): Domain Specific Language for sensor's configurations.
+- [er-cliamte-monitor-sensors](https://github.com/ER-climate-monitor/er-climate-monitor-sensors): sensors implementations, backed by real data scrapers.
+- [er-climate-monitor-frontend](https://github.com/ER-climate-monitor/er-climate-monitor-frontend): frontend implementation.
