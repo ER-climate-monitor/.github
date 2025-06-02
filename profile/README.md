@@ -9,7 +9,7 @@ Members:
 - [Stefano Furi](https://github.com/S-furi)
 - [Fabio Vincenzi](https://github.com/fabiovincenzi)
 
-Documentation is available [here](https://matteoiorio11.github.io/er-climate-monitor/)
+Documentation is available [here](https://er-climate-monitor.github.io/er-climate-monitor/)
 
 ## Project Composition
 
